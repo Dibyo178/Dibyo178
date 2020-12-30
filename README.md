@@ -8,7 +8,7 @@
 [![CV](https://img.shields.io/badge/social--badge?style=social&label=DownLoadCV&logo=gmail)](https://drive.google.com/file/d/12hhjGKotRV5-tOBUYwtX2gZj0-IMjpwk/view?usp=sharing)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/sourov-purkayastha/)
 
-<img width="550px" alt="Sourov purkayastha Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shakilmahammud&show_icons=true"/>
+
 </br>
 <h3>- 🌱 I’m currently learning  Javascript & react Js & Node</h3>
 <h4> 🔭 I’m currently working on Programming Hero</h4>
