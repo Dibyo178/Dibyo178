@@ -8,7 +8,7 @@
 [![CV](https://img.shields.io/badge/social--badge?style=social&label=DownLoadCV&logo=gmail)](https://drive.google.com/file/d/12hhjGKotRV5-tOBUYwtX2gZj0-IMjpwk/view?usp=sharing)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/sourov-purkayastha/)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dibyo178)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 <h3>- 🌱 I’m currently learning  Javascript & react Js & Node</h3>
 <h4> 🔭 I’m currently working on Programming Hero</h4>
