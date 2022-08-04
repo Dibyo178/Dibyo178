@@ -5,7 +5,7 @@
 [![Facebbok](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://web.facebook.com/sourovpurkayastha.dibyo)
 [![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://dibyopurkayastha.medium.com/)
 [![Gmail](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:dibyopurkayastha@gmail.com)
-[![CV](https://img.shields.io/badge/social--badge?style=social&label=DownLoadCV&logo=gmail)](https://drive.google.com/file/d/12hhjGKotRV5-tOBUYwtX2gZj0-IMjpwk/view?usp=sharing)
+[![CV](https://img.shields.io/badge/social--badge?style=social&label=DownLoadCV&logo=gmail)](https://drive.google.com/file/d/1IJLJ5AtqhAoY3ZyDPlKP9Azy3TCyUrcW/view?usp=sharing)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/sourov-purkayastha/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dibyo178)](https://github.com/anuraghazra/github-readme-stats)
