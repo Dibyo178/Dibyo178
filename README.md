@@ -1,6 +1,6 @@
 <h2>👋  Hi there  !! I'm Sourov</h2>
 
-<h2>Currently I am a Software Developer at <a href="https://smithitbd.com/" style="text-decoration:none"><span style="color:#B33426">Smith It</span>span></a> In Sylhet</h2>
+<h2>Currently I am a Software Developer at <a href="https://smithitbd.com/" style="text-decoration:none"><span style="color:#B33426">Smith It</span></a> In Sylhet</h2>
 
 #### 📫 &nbsp; Reach me:
 
