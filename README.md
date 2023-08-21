@@ -1,5 +1,7 @@
 <h2>👋  Hi there  !! I'm Sourov</h2>
 
+<h2>Currently I am a Software Developer At Smith It In Sylhet</h2>
+
 #### 📫 &nbsp; Reach me:
 
 [![Facebbok](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://web.facebook.com/sourovpurkayastha.dibyo)
