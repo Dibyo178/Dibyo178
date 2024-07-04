@@ -12,7 +12,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dibyo178)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-<h3>- 🌱 I’m currently learning  Javascript & react Js & Node</h3>
+
 <h4> 🔭 I’m currently working at Smith It</h4>
 
 <img src="https://raw.githubusercontent.com/shakilmahammud/shakilmahammud/master/Night-Coding.gif">
