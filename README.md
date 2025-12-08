@@ -11,7 +11,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, modern we
 
 ## 💼 Experience
 - Software Developer at **Smith IT**, Sylhet
-- 3+ years professional experience in full-stack development
+- 2+ years professional experience in full-stack development
 - Worked on Laravel, Vue.js, React, Node.js, Next.js, Java, Spring Boot projects
 
 ---
@@ -24,7 +24,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, modern we
 ---
 
 ## 🔭 Currently Working On
-- **Frontend:** React, Next.js
+- **Frontend:** React, Vue.js, Next.js
 - **Backend:** Laravel, Node.js, Java, Spring Boot
 - **Other:** Tailwind CSS, HTML, CSS
 
@@ -36,10 +36,11 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, modern we
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" title="React"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" title="Node.js"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" title="Next.js"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" title="Laravel"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" title="Vue.js"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" title="HTML"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" title="CSS"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" title="Tailwind CSS"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/algorithm/algorithm.png" title="DSA"></code>
 
 ---
 
