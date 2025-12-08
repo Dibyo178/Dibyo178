@@ -3,7 +3,7 @@
 # 👋 Hi there!! I'm Sourov
 
 ## About Me
-I'm a passionate **Full-Stack Developer** who loves building scalable, modern web applications. I specialize in **PHP, Laravel, Vue.js, React, Node.js**, and more. My goal is to grow as a world-class software engineer and contribute to impactful products.
+I'm a passionate **Full-Stack Developer** who loves building scalable, modern web applications. I specialize in **PHP, Laravel, Vue.js, React, Node.js, Next.js, Java, Spring Boot** and more. My goal is to grow as a world-class software engineer and contribute to impactful products.
 
 🌐 **Portfolio:** https://sourovdev.space/
 
@@ -11,39 +11,35 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, modern we
 
 ## 💼 Experience
 - Software Developer at **Smith IT**, Sylhet
-- 2+ years professional experience in full-stack development
-- Worked on Laravel, Vue.js, React, Node.js projects
+- 3+ years professional experience in Software development
+- Worked on Laravel, Vue.js, React, Node.js, Next.js, Java, Spring Boot projects
 
 ---
 
 ## 🛠 Projects
-- **Project Management System** - PHP + Vue.js project to manage tasks, users, and file uploads
+- **Project Management System** - Laravel + Vue.js project to manage tasks, users, and file uploads
 - **Hotel Booking System** - PHP + MySQL with room availability checking
 - **Trip Management App** - Laravel + Vue.js responsive application
 
 ---
 
 ## 🔭 Currently Working On
-- Professional software solutions at **Smith IT**
-- Laravel + Vue + Tailwind full-stack projects
-- Java & Spring Boot
-- DSA & Algorithms
-
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" />
+- **Frontend:** React, Next.js
+- **Backend:** Laravel, Node.js, Java, Spring Boot
+- **Other:** Tailwind CSS, HTML, CSS
 
 ---
 
 ## 🚀 Languages & Tools
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+- Java
+- Spring Boot
+- React
+- Node.js
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+- DSA / Algorithms
 
 ---
 
