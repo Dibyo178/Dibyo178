@@ -21,9 +21,13 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 - Professional software solutions at **Smith IT**
 - Laravel + Vue + Tailwind full‑stack projects
 - Java & Spring Boot
-- DSA & Algorithms for Big Tech preparation
+- DSA & Algorithms 
 
-<img src="https://raw.githubusercontent.com/shakilmahammud/shakilmahammud/master/Night-Coding.gif" width="400" />
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" />
+
+<img src="https://media.giphy.com/media/26FPnsRwwh0R1bR0U/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" />
 
 ---
 
