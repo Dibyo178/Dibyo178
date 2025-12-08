@@ -42,7 +42,9 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 ---
 
 ## 📊 GitHub Stats
-[![Sourov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dibyo178&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Sourov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dibyo178&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyo178&layout=compact&theme=radical&hide_border=true)
 
 ---
 
