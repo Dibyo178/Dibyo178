@@ -43,9 +43,9 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-github-proxy.vercel.app/api?username=Dibyo178&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dibyo178&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats-github-proxy.vercel.app/api/top-langs/?username=Dibyo178&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dibyo178&layout=compact&theme=radical&hide_border=true)
 
 ---
 
