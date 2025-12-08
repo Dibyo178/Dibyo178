@@ -1,46 +1,49 @@
-<h2>👋  Hi there  !! I'm Sourov</h2>
+# 👋 Hi there!! I'm Sourov
 
-<h2>Currently I am Working a Software Developer at <a href="https://smithitbd.com/" style="text-decoration:none"><span style="color:#B33426">Smith It</span></a> In Sylhet</h2>
+## 👨‍💻 Currently Working as a Software Developer at <a href="https://smithitbd.com/" style="text-decoration:none"><span style="color:#B33426">Smith IT</span></a>, Sylhet
 
-#### 📫 &nbsp; Reach me:
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who loves building scalable, modern web applications. I work with **PHP, Laravel, Vue.js, React, Node.js**, and more. My goal is to grow as a world‑class software engineer and contribute to impactful products.
 
-[![Facebbok](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://web.facebook.com/sourovpurkayastha.dibyo)
+🌐 **Portfolio:** https://sourovdev.space/
+
+---
+
+## 📫 Reach Me
+[![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://web.facebook.com/sourovpurkayastha.dibyo)
 [![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://dibyopurkayastha.medium.com/)
 [![Gmail](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:dibyopurkayastha@gmail.com)
-[![CV](https://img.shields.io/badge/social--badge?style=social&label=DownLoadCV&logo=gmail)](https://drive.google.com/file/d/1gxXcMn0T86TnQggVwX-9pCDpM6MTHMPj/view)
-[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/sourov-purkayastha/)
+[![CV](https://img.shields.io/badge/social--badge?style=social&label=DownloadCV&logo=gmail)](https://drive.google.com/file/d/1gxXcMn0T86TnQggVwX-9pCDpM6MTHMPj/view)
+[![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/sourov-purkayastha/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dibyo178)](https://github.com/anuraghazra/github-readme-stats)
-</br>
+---
 
-<h4> 🔭 I’m currently working at Smith It</h4>
+## 🔭 Currently Working On
+- Professional software solutions at **Smith IT**
+- Laravel + Vue + Tailwind full‑stack projects
+- Java & Spring Boot
+- DSA & Algorithms for Big Tech preparation
 
-<img src="https://raw.githubusercontent.com/shakilmahammud/shakilmahammud/master/Night-Coding.gif">
+<img src="https://raw.githubusercontent.com/shakilmahammud/shakilmahammud/master/Night-Coding.gif" width="400" />
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## 🚀 Languages & Tools
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 
+---
 
-<!--
-**Dibyo178/Dibyo178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+[![Sourov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dibyo178&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> github redm,ene ,.md file updata epremimium  visit my https://sourovdev.space/
+### ✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
