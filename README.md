@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Currently Working as a Software Developer at <a href="https://smithitbd.com/" style="text-decoration:none"><span style="color:#B33426">Smith IT</span></a>, Sylhet
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who loves building scalable, modern web applications. I work with **PHP, Laravel, Vue.js, React, Node.js**, and more. My goal is to grow as a world‑class software engineer and contribute to impactful products.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who loves building scalable, modern web applications. I work with **PHP, Laravel, Vue.js, React, Node.js**, and more. My goal is to grow as a world-class software engineer and contribute to impactful products.
 
 🌐 **Portfolio:** https://sourovdev.space/
 
@@ -19,12 +19,11 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 
 ## 🔭 Currently Working On
 - Professional software solutions at **Smith IT**
-- Laravel + Vue + Tailwind full‑stack projects
+- Laravel + Vue + Tailwind full-stack projects
 - Java & Spring Boot
-- DSA & Algorithms 
+- DSA & Algorithms for Big Tech preparation
 
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" />
-
 
 ---
 
