@@ -5,7 +5,6 @@
 ## About Me
 I'm a passionate **Full-Stack Developer** who loves building scalable, modern web applications. I specialize in **PHP, Laravel, Vue.js, React, Node.js, Next.js, Java, Spring Boot** and more. My goal is to grow as a world-class software engineer and contribute to impactful products.
 
-🌐 **Portfolio:** https://sourovdev.space/
 
 ---
 
