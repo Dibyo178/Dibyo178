@@ -62,4 +62,4 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, modern we
 
 ---
 
-### ✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+### :> Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
