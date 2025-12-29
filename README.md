@@ -6,6 +6,11 @@
 I'm a passionate **Full-Stack Developer** who loves building scalable, modern web applications. I specialize in **PHP, Laravel, Vue.js, React, Node.js, Next.js, Java, Spring Boot** and more. My goal is to grow as a world-class software engineer and contribute to impactful products.
 
 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 💼 Experience
@@ -17,9 +22,6 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, modern we
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🛠 Projects
 - **Project Management System** - Laravel + Vue.js project to manage tasks, users, and file uploads
