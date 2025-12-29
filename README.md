@@ -15,6 +15,12 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, modern we
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🛠 Projects
 - **Project Management System** - Laravel + Vue.js project to manage tasks, users, and file uploads
 - **Hotel Booking System** - PHP + MySQL with room availability checking
