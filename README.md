@@ -56,7 +56,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, modern we
   <a href="https://web.facebook.com/sourovpurkayastha.dibyo" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://dibyopurkayastha.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="mailto:dibyopurkayastha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://drive.google.com/file/d/1gxXcMn0T86TnQggVwX-9pCDpM6MTHMPj/view" target="_blank"><img src="https://img.shields.io/badge/DownloadCV-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"></a>
+  <a href="https://sourovdev.space/Sourov.pdf" target="_blank"><img src="https://img.shields.io/badge/DownloadCV-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"></a>
   <a href="https://www.linkedin.com/in/sourov-purkayastha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
