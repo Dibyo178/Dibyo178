@@ -16,7 +16,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable, modern we
 ## 💼 Experience
 - Software Developer at **Smith IT**, Sylhet
 - 3+ years professional experience in full-stack development
-- Worked on Laravel, Vue.js, React, Node.js, Next.js, Java, Spring Boot projects
+- Worked on Laravel, Vue.js, React, Node.js projects
 
 ---
 
